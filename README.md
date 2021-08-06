@@ -6,11 +6,11 @@
 *  Presentation slides
     * **Robotics AI Think Green Think Clean - Benjamin Ratin.pptx** (with animated GIFs)
     * **Robotics AI Think Green Think Clean - Benjamin Ratin.pdf**
-* Demo recording
-  * **Robotics Final Project Demo - Benjamin Ratin.mp4**
 * Presentation recording
     * High resolution: **Think Green Think Clean Robotics Presentation - Benjamin Ratin.mp4**
     * Low resolution: **Think Green Think Clean Robotics Presentation - Benjamin Ratin 720.mp4**
+* Demo recording
+  * **Robotics Final Project Demo - Benjamin Ratin.mp4**
 * Code: **main.py**
 * Data for Object Detection: 
     * **coco.names**
