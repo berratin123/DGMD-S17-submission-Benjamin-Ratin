@@ -16,6 +16,6 @@
     * **coco.names**
     * **frozen_inference_graph.pb**
     * **ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt**
-* Installation and running instructions in separate files:
+* Installation and running instructions:
     * **Installation and Running of Final Project Report - Benjamin Ratin.docx**
     * **Installation and Running of Final Project Report - Benjamin Ratin.pdf**
